@@ -1,5 +1,4 @@
 #![no_std]
-#![feature(start)]
 #![feature(const_fn_floating_point_arithmetic)]
 #![feature(panic_info_message)]
 
